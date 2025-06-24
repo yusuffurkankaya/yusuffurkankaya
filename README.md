@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a 10th grade student studying Electrical and Electronics Engineering. I like working on electronic circuits, computers and software. I am currently learning Rust on my own and I want to develop myself in software and engineering.
+
 <!--
 **yusuffurkankaya/yusuffurkankaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
